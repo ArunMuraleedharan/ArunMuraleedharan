@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArunMuraleedharan
-- 👀 I’m interested in android development uding flutter,microcontroller 
+- 👀 I’m interested in android development using flutter,microcontroller 
 - 🌱 I’m currently learning flutter,tensorflow,
 - 💞️ I’m looking to collaborate on iot ptojects
 - 📫 How to reach me ...
